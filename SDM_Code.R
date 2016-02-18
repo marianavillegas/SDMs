@@ -1,5 +1,4 @@
 
-## Gracias Emilio!!!!
 
 ## add packages
 library(maps)
